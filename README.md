@@ -140,11 +140,6 @@ BRINX development focuses on Android integration, launcher functionality, perfor
 
 The underlying engine and Android implementation are based on the open-source Starling and Horizon projects. Their respective licenses and copyright notices remain applicable.
 
-Useful upstream resources:
-
-- "Starling" (https://github.com/JuanLuci/starling)
-- "Starling unified repository" (https://github.com/starling-client/starling/tree/starling)
-- "Horizon" (https://github.com/ludovic111/horizon)
 
 Contributing
 
